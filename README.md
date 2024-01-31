@@ -1,4 +1,4 @@
-# GITHUB GAMES
+# GITHUB GAMES LIST
 Aqui tem links dos mais variados jogos no github.
 
 grande parte desses jogos vieram da lista: https://gist.github.com/roachhd/d579b58148d7e36a6b72
