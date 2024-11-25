@@ -22,6 +22,7 @@ If a game has "No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certif
 - [ [Coffee Snake](https://dommmel.github.io/coffee-snake/) ] - [ [rep](https://github.com/dommmel/coffee-snake) ]
 - [ [Coil](https://lab.hakim.se/coil/) ] - [ [rep](https://github.com/leereilly/Coil/) ]
 - [ [Cube Engine](https://nurgak.github.io/Cube-engine/) ] - [ [rep](https://github.com/Nurgak/Cube-engine/) ]
+- [ [Diep.io](https://diep.io/) ]
 - [ [Dino Runner](https://dinorunner.com/) ] - if you are using chrome: <chrome://dino>
 - [ [Drop (C)](https://phoboslab.org/high_impact/drop/) ] - [ [rep](https://github.com/phoboslab/high_drop/) ]
 - [ [Drop (JS)](https://impactjs.com/drop/) ]
@@ -36,6 +37,7 @@ If a game has "No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certif
 - [ [Krunker.io](https://krunker.io/) ]
 - [ [LiChess](https://lichess.org/) ] - [ [rep](https://github.com/lichess-org/lila/) ]
 - [ [Meteo Planet](https://abagames.github.io/crisp-game-lib-11-games/?meteoplanet) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
+- [ [Mope.io](https://mope.io/) ]
 - [ [12 Dozen (Mission1)](https://import-this.github.io/mission1/) ] - [ [rep](https://github.com/import-this/mission1/) ]
 - [ [Monkeytype](https://monkeytype.com/) ] - [ [rep](https://github.com/monkeytypegame/monkeytype/) ]
 - [ [Onslaught Arena](http://arcade.lostdecadegames.com/onslaught-arena/) ] - [ [rep](https://github.com/lostdecade/onslaught_arena/) ] - No SSL/TLS
