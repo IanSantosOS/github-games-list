@@ -8,29 +8,35 @@ If a game has a "- [ [rep](#games) ]", it means that game has a known repository
 
 If a game has "No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certificate), just HTTP, which is less secure.
 
+- [ [Agar.io](https://agar.io/) ]
 - [ [Alien Invasion](https://cykod.github.io/AlienInvasion/) ] - [ [rep](https://github.com/cykod/AlienInvasion/) ]
 - [ [Arduboy](https://arduboy.ried.cl/) ] - [ [rep](https://github.com/eried/ArduboyCollection/) ] - Collection of Arduboy compiled games, demos and applications
 - [ [Asteroids](http://www.dougmcinnes.com/html-5-asteroids/) ] - [ [rep](https://github.com/dmcinnes/HTML5-Asteroids/) ] - No SSL/TLS
 - [ [Biolab Disaster (C)](https://phoboslab.org/high_impact/biolab/) ] - [ [rep](https://github.com/phoboslab/high_biolab/) ]
 - [ [Biolab Disaster (JS)](https://playbiolab.com/) ]
 - [ [Bonk.io](https://bonk.io/) ]
+- [ [!bot](https://import-this.github.io/notbot/) ] - [ [rep](https://github.com/import-this/notbot) ]
+- [ [Bounce and don't let them catch you!](https://import-this.github.io/bounce/) ] - [ [rep](https://github.com/import-this/bounce) ]
 - [ [Card Q](https://abagames.github.io/crisp-game-lib-11-games/?cardq) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
 - [ [Charge Beam](https://abagames.github.io/crisp-game-lib-11-games/?chargebeam) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
-- [ [Clumsy Bird](https://ellisonleao.github.io/clumsy-bird/) ] - [ [rep](https://github.com/ellisonleao/clumsy-bird/) ]
-- [ [Coffee Snake](https://dommmel.github.io/coffee-snake/) ] - [ [rep](https://github.com/dommmel/coffee-snake)/ ]
+- [ [Coffee Snake](https://dommmel.github.io/coffee-snake/) ] - [ [rep](https://github.com/dommmel/coffee-snake) ]
 - [ [Coil](https://lab.hakim.se/coil/) ] - [ [rep](https://github.com/leereilly/Coil/) ]
-- [ [Crappy Bird](https://varunpant.com/resources/CrappyBird/index.html/) ] - [ [rep](https://github.com/varunpant/CrappyBird/) ]
 - [ [Cube Engine](https://nurgak.github.io/Cube-engine/) ] - [ [rep](https://github.com/Nurgak/Cube-engine/) ]
-- [ [Dino Runner](https://dinorunner.com/) ] - if you are using chrome: <chrome://dino/>
+- [ [Dino Runner](https://dinorunner.com/) ] - if you are using chrome: <chrome://dino>
 - [ [Drop (C)](https://phoboslab.org/high_impact/drop/) ] - [ [rep](https://github.com/phoboslab/high_drop/) ]
 - [ [Drop (JS)](https://impactjs.com/drop/) ]
 - [ [Duck Hunt JS](https://duckhuntjs.com/) ] - [ [rep](https://github.com/MattSurabian/DuckHunt-JS/) ]
+- [ [Flappy Bird](https://flappybird.io/) ]
 - [ [Fluid Table Tennis](https://anirudhjoshi.github.io/fluid_table_tennis/) ] - [ [rep](https://github.com/anirudhjoshi/fluid_table_tennis/) ]
+- [ [Gartic Games](https://gartic.com/) ]
 - [ [Green Mahjong](http://greenmahjong.daniel-beck.org/#start) ] - [ [rep](https://github.com/danbeck/green-mahjong/) ] - No SSL/TLS
 - [ [Heartline](https://heartline.github.io/) ] - [ [rep](https://github.com/HeartLine/heartline.github.com/) ]
 - [ [Hextris](https://hextris.io/) ] - [ [rep](https://github.com/Hextris/hextris/) ]
+- [ [Jstris](https://jstris.jezevec10.com/) ]
+- [ [Krunker.io](https://krunker.io/) ]
 - [ [LiChess](https://lichess.org/) ] - [ [rep](https://github.com/lichess-org/lila/) ]
 - [ [Meteo Planet](https://abagames.github.io/crisp-game-lib-11-games/?meteoplanet) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
+- [ [12 Dozen (Mission1)](https://import-this.github.io/mission1/) ] - [ [rep](https://github.com/import-this/mission1/) ]
 - [ [Monkeytype](https://monkeytype.com/) ] - [ [rep](https://github.com/monkeytypegame/monkeytype/) ]
 - [ [Onslaught Arena](http://arcade.lostdecadegames.com/onslaught-arena/) ] - [ [rep](https://github.com/lostdecade/onslaught_arena/) ] - No SSL/TLS
 - [ [Orbium](https://bni.github.io/orbium/) ] - [rep](https://github.com/bni/orbium/)
@@ -42,15 +48,21 @@ If a game has "No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certif
 - [ [Radical Race](https://phoboslab.org/krace/) ]
 - [ [SkiFree](https://basicallydan.github.io/skifree.js/) ] - [ [rep](https://github.com/basicallydan/skifree.js/) ]
 - [ [Squirts](https://krofdrakula.github.io/squirts/) ] - [ [rep](https://github.com/KrofDrakula/squirts/) ]
+- [ [StopotS](https://stopots.com/) ]
+- [ [SUPERCOLD](https://import-this.github.io/supercold/) ] - [ [rep](https://github.com/import-this/supercold) ]
+- [ [SUPERHOT PROTOTYPE](https://superhotgame.com/superhot-prototype) ]
 - [ [Survivor](https://www.schillmania.com/survivor/) ] - [ [rep](https://github.com/scottschiller/SURVIVOR/) ]
+- [ [Tetr.io](https://tetr.io/) ]
 - [ [The Killer](https://necessarygames.com/play/the-killer/) ] - [ [rep](https://github.com/JordanMagnuson/The-Killer/) ]
 - [ [Thunder](https://abagames.github.io/crisp-game-lib-11-games/?thunder) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
 - [ [Timber Test](https://abagames.github.io/crisp-game-lib-11-games/?timbertest) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
 - [ [Underrun](https://phoboslab.org/underrun/) ] - [ [rep](https://github.com/phoboslab/underrun/) ]
 - [ [Up 1 Way](https://abagames.github.io/crisp-game-lib-11-games/?up1way) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
+- [ [Venge.io](https://venge.io/) ]
 - [ [Voidcall](https://phoboslab.org/voidcall/) ] - [ [rep](https://github.com/phoboslab/voidcall/) ]
 - [ [Wipe Game (wipEout Rewrite)](https://phoboslab.org/wipegame/) ] - [ [rep](https://github.com/phoboslab/wipeout-rewrite/) ]
 - [ [Xibalba](https://phoboslab.org/xibalba/) ]
+- [ [XOR](https://import-this.github.io/xor/) ] - [ [rep](https://github.com/import-this/xor/) ]
 - [ [XTYPE](https://phoboslab.org/xtype/) ]
 - [ [ZTYPE](https://zty.pe/) ]
 
