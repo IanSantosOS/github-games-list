@@ -2,7 +2,17 @@
 
 A huge list of free games on Steam and the Web.
 
-> I am still organizing this repo, for now there is just web games
+> I am still organizing this repo
 
-- [Free Steam games](./STEAM.md)
-- [Free web browser games](./WEB.md)
+- [Free Steam Games](./STEAM.md)
+- [Free Web Browser Games](./WEB.md)
+
+## To Do List
+
+- [x] Free web games
+- [x] Free Steam games
+- [ ] Free mobile (android) games
+- [ ] Free multiplayer web games
+- [ ] Free Steam multiplayer games
+- [ ] Make tags with the game's genre and subgenre
+- [ ] Paid games
