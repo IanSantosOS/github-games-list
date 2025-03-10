@@ -32,6 +32,11 @@ If a game has "No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certif
 - [ [Gartic Games](https://gartic.com/) ]
 - [ [Green Mahjong](http://greenmahjong.daniel-beck.org/#start) ] - [ [rep](https://github.com/danbeck/green-mahjong/) ] - No SSL/TLS
 - [ [Heartline](https://heartline.github.io/) ] - [ [rep](https://github.com/HeartLine/heartline.github.com/) ]
+- [ [Henry Stickmin 1 | Breaking the Bank](https://www.newgrounds.com/portal/view/457209)
+- [ [Henry Stickmin 2 | Escaping the Prison](https://www.newgrounds.com/portal/view/533001)
+- [ [Henry Stickmin 3 | Stealing the Diamond](https://www.newgrounds.com/portal/view/574241)
+- [ [Henry Stickmin 4 | Infiltrating the Airship](https://www.newgrounds.com/portal/view/618518)
+- [ [Henry Stickmin 5 | Fleeing the Complex](https://www.newgrounds.com/portal/view/665992)
 - [ [Hextris](https://hextris.io/) ] - [ [rep](https://github.com/Hextris/hextris/) ]
 - [ [Jstris](https://jstris.jezevec10.com/) ]
 - [ [Krunker.io](https://krunker.io/) ]
