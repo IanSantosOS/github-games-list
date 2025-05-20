@@ -6,7 +6,9 @@ Games that you can play on the web.
 
 If a game has a "- [ [rep](#games) ]", it means that game has a known repository on github or gitlab.
 
-If a game has "No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certificate), just HTTP, which is less secure.
+If a game has "- No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certificate), just HTTP, which is less secure.
+
+If a game has "- Flash Game", it's a Flash game :)
 
 - [ [Agar.io](https://agar.io/) ]
 - [ [Alien Invasion](https://cykod.github.io/AlienInvasion/) ] - [ [rep](https://github.com/cykod/AlienInvasion/) ]
@@ -32,11 +34,11 @@ If a game has "No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certif
 - [ [Gartic Games](https://gartic.com/) ]
 - [ [Green Mahjong](http://greenmahjong.daniel-beck.org/#start) ] - [ [rep](https://github.com/danbeck/green-mahjong/) ] - No SSL/TLS
 - [ [Heartline](https://heartline.github.io/) ] - [ [rep](https://github.com/HeartLine/heartline.github.com/) ]
-- [ [Henry Stickmin 1 | Breaking the Bank](https://www.newgrounds.com/portal/view/457209) ]
-- [ [Henry Stickmin 2 | Escaping the Prison](https://www.newgrounds.com/portal/view/533001) ]
-- [ [Henry Stickmin 3 | Stealing the Diamond](https://www.newgrounds.com/portal/view/574241) ]
-- [ [Henry Stickmin 4 | Infiltrating the Airship](https://www.newgrounds.com/portal/view/618518) ]
-- [ [Henry Stickmin 5 | Fleeing the Complex](https://www.newgrounds.com/portal/view/665992) ]
+- [ [Henry Stickmin 1 | Breaking the Bank](https://www.newgrounds.com/portal/view/457209) ] - Flash Game
+- [ [Henry Stickmin 2 | Escaping the Prison](https://www.newgrounds.com/portal/view/533001) ] - Flash Game
+- [ [Henry Stickmin 3 | Stealing the Diamond](https://www.newgrounds.com/portal/view/574241) ] - Flash Game
+- [ [Henry Stickmin 4 | Infiltrating the Airship](https://www.newgrounds.com/portal/view/618518) ] - Flash Game
+- [ [Henry Stickmin 5 | Fleeing the Complex](https://www.newgrounds.com/portal/view/665992) ] - Flash Game
 - [ [Hextris](https://hextris.io/) ] - [ [rep](https://github.com/Hextris/hextris/) ]
 - [ [Jstris](https://jstris.jezevec10.com/) ]
 - [ [Krunker.io](https://krunker.io/) ]
@@ -63,6 +65,7 @@ If a game has "No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certif
 - [ [The Killer](https://necessarygames.com/play/the-killer/) ] - [ [rep](https://github.com/JordanMagnuson/The-Killer/) ]
 - [ [Thunder](https://abagames.github.io/crisp-game-lib-11-games/?thunder) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
 - [ [Timber Test](https://abagames.github.io/crisp-game-lib-11-games/?timbertest) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
+- [ [Titan Souls Prototype](https://clawmark.itch.io/titan-souls) ] - Flash Game
 - [ [Underrun](https://phoboslab.org/underrun/) ] - [ [rep](https://github.com/phoboslab/underrun/) ]
 - [ [Up 1 Way](https://abagames.github.io/crisp-game-lib-11-games/?up1way) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
 - [ [Venge.io](https://venge.io/) ]
