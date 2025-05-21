@@ -1,9 +1,10 @@
 # GITHUB GAMES LIST
 
-A huge list of free games on Steam and the Web.
+A huge list of free games on Android, Steam and the Web.
 
 > I am still organizing this repo
 
+- [Free Mobile Games](./MOBILE.md) (Android)
 - [Free Steam Games](./STEAM.md)
 - [Free Web Browser Games](./WEB.md)
 
@@ -11,8 +12,6 @@ A huge list of free games on Steam and the Web.
 
 - [x] Free web games
 - [x] Free Steam games
-- [ ] Free mobile (android) games
-- [ ] Free multiplayer web games
-- [ ] Free Steam multiplayer games
+- [x] Free mobile (android) games
 - [ ] Make tags with the game's genre and subgenre
 - [ ] Paid games

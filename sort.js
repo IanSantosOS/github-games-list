@@ -4,4 +4,4 @@ let list = []
 
 list.sort((a,b) => a.localeCompare(b));
 
-console.log(list);
+console.log(list.join('\n'));
