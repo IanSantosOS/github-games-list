@@ -29,7 +29,8 @@ If a game has "- Flash Game", it's a Flash game :)
 - [ [Drop (C)](https://phoboslab.org/high_impact/drop/) ] - [ [rep](https://github.com/phoboslab/high_drop/) ]
 - [ [Drop (JS)](https://impactjs.com/drop/) ]
 - [ [Duck Hunt JS](https://duckhuntjs.com/) ] - [ [rep](https://github.com/MattSurabian/DuckHunt-JS/) ]
-- [ [Flappy Bird](https://flappybird.io/) ]
+- [ [Flappy Bird](https://flappybird.io/) ] - now it is too ugly, play "Flappy Bird 2D" or [the old version on the Wayback Machine](https://web.archive.org/web/20240826084637/https://flappybird.io/))
+- [ [Flappy Bird 2D](https://flappybird2d.com/) ]
 - [ [Fluid Table Tennis](https://anirudhjoshi.github.io/fluid_table_tennis/) ] - [ [rep](https://github.com/anirudhjoshi/fluid_table_tennis/) ]
 - [ [Gartic Games](https://gartic.com/) ]
 - [ [Green Mahjong](http://greenmahjong.daniel-beck.org/#start) ] - [ [rep](https://github.com/danbeck/green-mahjong/) ] - No SSL/TLS
