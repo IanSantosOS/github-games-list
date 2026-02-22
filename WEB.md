@@ -6,6 +6,8 @@ Games that you can play on the web.
 
 If a game has a "- [ [rep](#games) ]", it means that game has a known repository on github or gitlab.
 
+If a game has a "- [ [alt](#games) ]", it means that game has an alternative link
+
 If a game has "- No SSL/TLS", it means that game doesn't use HTTPS (SSL/TLS certificate), just HTTP, which is less secure.
 
 If a game has "- Flash Game", it's a Flash game :)
@@ -62,7 +64,7 @@ If a game has "- Flash Game", it's a Flash game :)
 - [ [SUPERCOLD](https://import-this.github.io/supercold/) ] - [ [rep](https://github.com/import-this/supercold) ]
 - [ [SUPERHOT PROTOTYPE](https://superhotgame.com/superhot-prototype) ]
 - [ [Survivor](https://www.schillmania.com/survivor/) ] - [ [rep](https://github.com/scottschiller/SURVIVOR/) ]
-- [ [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) ]
+- [ [Terminus](https://www.mprat.org/Terminus/) ] - [ [alt](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) ] - [ [rep](https://github.com/mprat/Terminus) ]
 - [ [Tetr.io](https://tetr.io/) ]
 - [ [The Killer](https://necessarygames.com/play/the-killer/) ] - [ [rep](https://github.com/JordanMagnuson/The-Killer/) ]
 - [ [Thunder](https://abagames.github.io/crisp-game-lib-11-games/?thunder) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
