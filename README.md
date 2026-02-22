@@ -8,6 +8,9 @@ A huge list of free games on Android, Steam and the Web.
 - [Free Steam Games](./STEAM.md)
 - [Free Web Browser Games](./WEB.md)
 
+**Temporary List**
+- [Terminal Related Games](./TERMINAL-RELATED.md)
+
 ## To Do List
 
 - [x] Free web games
