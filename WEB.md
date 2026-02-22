@@ -62,6 +62,7 @@ If a game has "- Flash Game", it's a Flash game :)
 - [ [SUPERCOLD](https://import-this.github.io/supercold/) ] - [ [rep](https://github.com/import-this/supercold) ]
 - [ [SUPERHOT PROTOTYPE](https://superhotgame.com/superhot-prototype) ]
 - [ [Survivor](https://www.schillmania.com/survivor/) ] - [ [rep](https://github.com/scottschiller/SURVIVOR/) ]
+- [ [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) ]
 - [ [Tetr.io](https://tetr.io/) ]
 - [ [The Killer](https://necessarygames.com/play/the-killer/) ] - [ [rep](https://github.com/JordanMagnuson/The-Killer/) ]
 - [ [Thunder](https://abagames.github.io/crisp-game-lib-11-games/?thunder) ] - [ [rep](https://github.com/abagames/crisp-game-lib/) ]
