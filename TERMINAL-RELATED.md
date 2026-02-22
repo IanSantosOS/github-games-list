@@ -4,9 +4,9 @@ This is a temporary list of "terminal" or "console" games.
 
 ## List
 
-- [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-- [Rogue (arch)](https://aur.archlinux.org/packages/rogue) - [Website]()
-- [Nethack (rep)](https://github.com/NetHack/NetHack) - [Website]()
+- [Terminus](https://www.mprat.org/Terminus/) - [Alternative Link](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | [rep](https://github.com/mprat/Terminus)
+- [Rogue v5.4 (arch)](https://aur.archlinux.org/packages/rogue) - [Website](http://rogue.rogueforge.net/)
+- [Nethack (rep)](https://github.com/NetHack/NetHack) - [Website](https://www.nethack.org/common/index.html)
 - [Dwarf Fortress (arch)](https://archlinux.org/packages/extra/x86_64/dwarffortress/) - [Website](https://www.bay12games.com/dwarves/) | [Steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/) | *Note
 - [Cataclism DDA(rep)](https://github.com/CleverRaven/Cataclysm-DDA) - [Website](https://cataclysmdda.org/)
 - [Ski (arch)](https://aur.archlinux.org/packages/ski)
